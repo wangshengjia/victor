@@ -3,7 +3,7 @@
 ### Yo 👋 I'm victor.
 Having coffee at Citymapper, keep learning.
 
-Love startup, tech, product.
+Startup, tech, product, food. Talk to me.
 
 Living in London, regularly back to Paris and Shanghai.
 
@@ -12,3 +12,5 @@ Living in London, regularly back to Paris and Shanghai.
 - 🍜 Ramen!
 - 💻 写代码，但是更爱做产品
 - 💀 啊 程序员之耻!
+
+Have fun.
