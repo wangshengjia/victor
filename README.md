@@ -7,3 +7,4 @@
 - Ramen!
 - Still coding but love product
 - 啊 程序员之耻!
+- London/Shanghai/Paris
